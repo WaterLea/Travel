@@ -21,7 +21,7 @@ export default {
       },
       swiperList: [{
         id: '001',
-        imgUrl: 'http://img.netbian.com/file/newc/d9c5953af524e8d0096237cf143839da.jpg'
+        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1811/31/da037478f37cf202.jpg_750x200_fe28d396.jpg'
       }, {
         id: '002',
         imgUrl: 'https://imgs.qunarzz.com/p/tts8/1703/94/61eb7ce216efc702.jpg_r_390x260x90_d5dd6341.jpg'
